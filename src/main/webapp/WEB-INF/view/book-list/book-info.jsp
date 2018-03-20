@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-md-5">
                         <ul class="breadcrumb">
-                            <li><a href="/OBS/HOME/">Home</a>
+                            <li><a href="/pustakosh/HOME/">Home</a>
                             </li>
                             <li><a href="#">${bookinfo.bookCategory }</a>
                             </li>
@@ -307,7 +307,7 @@
                             <div class="panel-body">
                                 <ul class="nav nav-pills nav-stacked category-menu">
                                     <li class="active">
-                                        <a href="/OBS/HOME/">Book's <span class="badge pull-right">42</span></a>
+                                        <a href="/pustakosh/HOME/">Book's <span class="badge pull-right">42</span></a>
                                         <ul>
                                             <li><a href="shop-category.html">ART</a>
                                             </li>
